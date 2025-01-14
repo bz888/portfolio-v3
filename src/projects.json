@@ -1,0 +1,114 @@
+[
+  {
+    "id": 15,
+    "title": "SubQuery",
+    "date": "2022-2024",
+    "type": "professional",
+    "description": "A major contributor to SubQuery, focusing on building and optimizing CLI tooling and developing new features to improve indexing speeds. Worked extensively on backend systems, enhancing ETAs and data streaming capabilities. Contributions included working with EVM data indexing and closed-source projects utilizing Parquet, Apache Flink, and big data streams, primarily in Java and Kotlin.",
+    "codeLink": "https://github.com/subquery/subql",
+    "media": [],
+    "status": "ended",
+    "techStack": ["TypeScript", "Node.js", "Java", "Kotlin", "Apache Flink", "Parquet", "EVM", "Nest.js", "Docker", "Kubernetes"]
+  },
+  {
+    "id": 16,
+    "title": "Passform",
+    "date": "2024",
+    "type": "professional",
+    "description": "Contracted as a frontend developer for Passform, a startup abstracted from myshout.co, focused on creating passes for Google Wallet and Apple Wallet. Responsibilities included building and maintaining the frontend using modern frameworks and libraries to ensure a seamless user experience.",
+    "codeLink": null,
+    "media": ["/images/passform/1.png", "/images/passform/2.png"],
+    "status": "ongoing",
+    "techStack": ["Next.js", "shadcn", "Firebase", "Tailwind CSS"]
+  },
+  {
+    "id": 9,
+    "title": "Blab",
+    "date": "2024",
+    "type": "personal",
+    "description": "Blab is a Terminal User Interface (TUI) built with Golang for Large Language Model (LLM) chat. It uses the ollama package to run large language models locally. (there is voice recognition too)",
+    "codeLink": "https://github.com/bz888/blab",
+    "media": ["/images/blab/1.png"],
+    "status": "ongoing",
+    "techStack": ["Go", "ollama", "voice recognition (onnxruntime) "]
+  },
+  {
+    "id": 1,
+    "title": "decentfilmblog | decentcamerashop",
+    "date": "December 2024",
+    "type": "personal",
+    "description": "A comprehensive platform combining a film photography blog and an e-commerce shop. Inspired by platforms like 35mmc.com, it features articles, reviews, and tutorials dedicated to film photography. The shop specializes in selling vintage cameras, catering to photography enthusiasts. The platform integrates Stripe for secure payment processing and utilizes Firebase for backend operations, ensuring a smooth and reliable user experience. Users can explore content, manage their profiles, and purchase curated vintage cameras seamlessly.",
+    "codeLink": "https://github.com/bz888/theshop",
+    "media": ["/images/decent/1.png", "/images/decent/2.png", "/images/decent/3.png", "/images/decent/4.png", "/images/decent/5.png"],
+    "status": "ongoing",
+    "techStack": ["React", "Next.js", "Node.js", "fastify", "Tailwind CSS", "Stripe", "Firebase"]
+  },
+  {
+    "id": 14,
+    "title": "Helloer",
+    "date": "2024",
+    "type": "personal",
+    "description": "A project born from my exploration into screenplay writing, created to help craft better dialogue. It simulates conversations between two AIs, providing a unique way to brainstorm and refine dialogue for storytelling and screenplays.",
+    "codeLink": "https://github.com/bz888/helloer",
+    "media": [],
+    "status": "ended",
+    "techStack": ["Go", "REST API"]
+  },
+  {
+    "id": 11,
+    "title": "LDR Shutter Speed Tester",
+    "date": "2024",
+    "type": "personal",
+    "description": "A project utilizing a Light Dependent Resistor (LDR) to test and measure the shutter speeds of cameras, providing accurate readings for photography enthusiasts.",
+    "codeLink": "https://github.com/bz888/LDR-shutter-speed-tester",
+    "media": [],
+    "status": "ongoing",
+    "techStack": ["Arduino", "C++", "Electronics"]
+  },
+  {
+    "id": 4,
+    "title": "Two Truths One Lie",
+    "date": "2021",
+    "type": "professional",
+    "description": "A project commissioned by artist Darryl Chin, using text generation to process user input and render it into a news-page format to comment on misinformation.",
+    "media": [],
+    "deploymentLink": "https://www.depotartspace.co.nz/event/two-truths/",
+    "codeLink": "https://github.com/bz888/2-truth-1-lie",
+    "status": "ended",
+    "techStack": ["firebase", "Express.js", "React.js", "Knex.js"]
+  },
+  {
+    "id": 5,
+    "title": "Afternewmedia",
+    "date": "2021",
+    "type": "professional",
+    "description": "A commissioned project for NZ based artist William LinScott, using YouTube APIs to render videos with zero views, narrowing searches to file-like names such as 'DSC, MOV, IMG.'",
+    "codeLink": "https://github.com/bz888/0-views",
+    "media": [],
+    "status": "ended",
+    "techStack": ["Node.js", "YouTube API", "MongoDB", "react.js", "python"]
+  },
+  {
+    "id": 7,
+    "title": "SideScroller",
+    "date": "2021",
+    "type": "academic",
+    "description": "An arcade-style side-scrolling game built with Phaser.js, developed in a team as a graduation project with an agile workflow.",
+    "media": ["/images/sideScroller/1.png", "/images/sideScroller/2.png"],
+    "codeLink": "https://github.com/bz888/side-scroller",
+    "status": "ended",
+    "techStack": ["Phaser.js", "JavaScript", "Node.js"]
+  },
+  {
+    "id": 8,
+    "title": "Somezine",
+    "date": "2020",
+    "type": "academic",
+    "description": "A response to pandemic restrictions, featuring 3D renderings and video works expressing virtual freedom. Built with Unity, Maya, Blender, and web technologies.",
+    "deploymentLink": "https://bz888.github.io/portfolio-v1/index.html",
+    "codeLink": "https://github.com/bz888/portfolio-v1",
+    "media": ["/images/somezine/1.png"],
+    "status": "ended",
+    "techStack": ["Unity", "Maya", "Blender", "html", "css"]
+  }
+]
